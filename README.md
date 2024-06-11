@@ -9,3 +9,7 @@
 
 가장 기본적인 데이터를 가지고 전처리를 진행하였다. 
 
+https://github.com/albbano0722/AI-project/blob/main/project.png1.png
+
+그 다음 데이터 전처리가 잘 됐는지 확인 한 후
+
